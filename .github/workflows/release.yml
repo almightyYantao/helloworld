@@ -19,7 +19,7 @@ jobs:
           project-path: Msss.xcodeproj
           p12-base64: ${{ secrets.P12_BASE64 }}
           mobileprovision-base64: ${{ secrets.MOBILEPROVISION_BASE64 }}
-          code-signing-identity: 'iPhone Distribution'
+          code-signing-identity: ${{ secrets.CODE_SIGNING_IDENTITY }}
           certificate-password: ${{ secrets.IOS_CERTIFICATE_PASSWORD }}
           team-id: ${{ secrets.TEAM_ID }}
 
