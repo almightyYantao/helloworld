@@ -1,0 +1,109 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "d76f9a0ca1831ef32d171491b50e62b10efef4d7af8c65d78776d7f642cd853f",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Products",
+          "derivedDataPath" : "/Users/yantao/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/yantao/Library/Developer/Xcode/DerivedData/Msss-gizyeiustonvoqhbboinxmbuiznl/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/yantao/Library/Developer/Xcode/DerivedData/Msss-gizyeiustonvoqhbboinxmbuiznl/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+              "DSTROOT" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex",
+              "SYMROOT" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "70202123-9753-4069-AB63-7C9D15912763",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Msss.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Products",
+      "derivedDataPath" : "/Users/yantao/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/yantao/Library/Developer/Xcode/DerivedData/Msss-gizyeiustonvoqhbboinxmbuiznl/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/yantao/Library/Developer/Xcode/DerivedData/Msss-gizyeiustonvoqhbboinxmbuiznl/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "70202123-9753-4069-AB63-7C9D15912763",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

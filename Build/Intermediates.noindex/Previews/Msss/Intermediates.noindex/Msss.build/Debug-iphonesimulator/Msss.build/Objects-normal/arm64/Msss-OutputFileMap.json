@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/Msss-master.dia",
+    "emit-module-dependencies" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/Msss-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/Msss-master-emit-module.dia",
+    "swift-dependencies" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/Msss-master.swiftdeps"
+  },
+  "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/yantao/Documents/yantao/yantao_code/Msss/Msss/ContentView.swift" : {
+    "const-values" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/yantao/Documents/yantao/yantao_code/Msss/Msss/MsssApp.swift" : {
+    "const-values" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/MsssApp.swiftconstvalues",
+    "dependencies" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/MsssApp.d",
+    "diagnostics" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/MsssApp.dia",
+    "index-unit-output-path" : "/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/MsssApp.o",
+    "llvm-bc" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/MsssApp.bc",
+    "object" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/MsssApp.o",
+    "swift-dependencies" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/MsssApp.swiftdeps",
+    "swiftmodule" : "/Users/yantao/Documents/yantao/yantao_code/Msss/Build/Intermediates.noindex/Previews/Msss/Intermediates.noindex/Msss.build/Debug-iphonesimulator/Msss.build/Objects-normal/arm64/MsssApp~partial.swiftmodule"
+  }
+}
