@@ -16,7 +16,7 @@ jobs:
       - name: iOS Build Action
         uses: yukiarrr/ios-build-action@v1.11.2
         with:
-          project-path: helloworld.xcodeproj
+          project-path: Msss.xcodeproj
           p12-base64: ${{ secrets.P12_BASE64 }}
           mobileprovision-base64: ${{ secrets.MOBILEPROVISION_BASE64 }}
           code-signing-identity: 'iPhone Distribution'
